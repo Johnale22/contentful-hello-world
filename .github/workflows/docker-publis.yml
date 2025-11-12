@@ -28,4 +28,4 @@ jobs:
         context: .
         push: true
         # Aquí usamos 'latest' para que siempre se actualice la última versión
-        tags: johnal22/contentful-hello-world:latest
+        tags: johnal22/contentful-app:latest
